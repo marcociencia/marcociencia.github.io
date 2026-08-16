@@ -1,6 +1,6 @@
 # 🧮 Advanced Math Solver - Interactive Mathematical Tool
 
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-brightgreen)](https://marcociencia.github.io/advanced-math-solver/)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-brightgreen)](https://advancemathsolver.netlify.app/)
 
 ## 🚀 Features
 
